@@ -5,6 +5,16 @@ The project demonstrates the use of **design patterns**, clean architecture, and
 
 ---
 
+##  Screenshots
+
+<p align="center">
+  <img src="screenshots/screen1.png" width="250" />
+  <img src="screenshots/screen2.png" width="250" />
+  <img src="screenshots/screen3.png" width="250" />
+</p>
+
+---
+
 ## Game Overview
 
 The game starts with three balls, each bouncing across the screen.  
@@ -41,14 +51,11 @@ The score increases live and is displayed at the top of the game window.
 
 ##  Controls
 
-- **← Left Arrow** — Move paddle left  
-- **→ Right Arrow** — Move paddle right  
+- **← Left Arrow** - Move paddle left  
+- **→ Right Arrow** - Move paddle right  
 
 The paddle’s movement direction and the hit position determine the **ball’s reflection angle**.
 
 ---
 
-##  Screenshots
 
-![Game Start](assets/screenshots/Screenshot1.png)
-![In-Game](assets/screenshots/Screenshot2.png)
