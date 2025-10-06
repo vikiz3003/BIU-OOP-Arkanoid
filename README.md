@@ -8,7 +8,7 @@ The project demonstrates the use of **design patterns**, clean architecture, and
 ##  Screenshots
 
 <p align="center">
-  <img src="screenshots/screen1.png" width="250" />
+  <img width="300" alt="Image1" src="https://github.com/user-attachments/assets/29fdecc3-4118-4d50-b326-275691f61fbe" />
   <img src="screenshots/screen2.png" width="250" />
   <img src="screenshots/screen3.png" width="250" />
 </p>
