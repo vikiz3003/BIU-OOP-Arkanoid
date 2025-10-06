@@ -10,6 +10,8 @@ The project demonstrates the use of **design patterns**, clean architecture, and
 The game starts with three balls, each bouncing across the screen.  
 A ball can destroy a block only if its color is different from the block’s color.  
 After hitting and destroying a block, the ball changes its color to match the block it just hit.  
+If the balls reach the bottom of the screen, they disappear.  
+The game ends when **all balls are lost**.
 
 The score increases live and is displayed at the top of the game window.
 
