@@ -10,7 +10,7 @@ The project demonstrates the use of **design patterns**, clean architecture, and
 <p align="center">
   <img width="300" alt="Image1" src="https://github.com/user-attachments/assets/29fdecc3-4118-4d50-b326-275691f61fbe" />
   <img width="300" alt="Image2" src="https://github.com/user-attachments/assets/2b08c29b-7d71-428d-9d6c-e631c664c6fd" />        
-  <img src="screenshots/screen3.png" width="250" />
+  <img width="300" alt="Image3" src="https://github.com/user-attachments/assets/2f701b0e-4abb-4fee-a983-f5b7c51ff99f" />
 </p>
 
 ---
